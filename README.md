@@ -1,5 +1,5 @@
 # 1.44inch_LCD_HAT
-1.44inch_LCD_HAT User Manual and Code
+1.44inch_LCD_HAT [User Manual](https://github.com/blackout314/1.44inch_LCD_HAT/blob/master/1.44inch_LCD_HAT_User_Manual_EN.pdf) and [Code](https://github.com/blackout314/1.44inch_LCD_HAT/tree/master/code)
 
 
 ## specs ##
